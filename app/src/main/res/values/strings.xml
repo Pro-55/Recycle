@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Recycler Demo</string>
+    <string name="head">Item: </string>
+    <string name="info">Information about item: </string>
+</resources>
